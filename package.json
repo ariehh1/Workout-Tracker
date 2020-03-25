@@ -1,0 +1,28 @@
+{
+  "name": "Workout-Tracker",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongod": "^2.0.0",
+    "mongoose": "^5.9.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariehh1/Workout-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariehh1/Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/ariehh1/Workout-Tracker#readme"
+}
