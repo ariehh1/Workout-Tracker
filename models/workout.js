@@ -6,8 +6,13 @@ const Schema = mongoose.Schema;
 
 const workoutSchema = new Schema({
     type: {
-
+        type: String,
+        required: "Enter an exercise type",
     },
+    name: {
+        type: String,
+        required: 
+    }
 
 
 }
