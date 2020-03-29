@@ -17,7 +17,7 @@ A consumer will reach their fitness goals quicker when they track their workout 
 <li>jQuery - (https://api.jquery.com/)</li>
 <li>Bootstrap - (https://getbootstrap.com/docs/4.4/getting-started/introduction/)</li>
 
-<h1>Setup:</h1>
+<h1>Setup Before Deployment:</h1>
 <li>Clone the repository on your local device and open Terminal or Bash</li>
 <li>In Terminal or Bash, the user will run the following command to download all application dependencies: "npm install"</li>
 <li>In Terminal or Bash, the user will run the following command to run the application: "npm run watch"</li>
