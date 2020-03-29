@@ -12,16 +12,16 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 A consumer will reach their fitness goals quicker when they track their workout progress.
 
 <h1>Technologies Used:</h1>
-<li>[MongoDB](https://www.mongodb.com/)</li>
-<li>[Mongoose](https://mongoosejs.com/docs/api.html)</li>
-<li>[jQuery](https://api.jquery.com/)</li>
-<li>[Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)</li>
+<li>MongoDB - (https://www.mongodb.com/)</li>
+<li>Mongoose - (https://mongoosejs.com/docs/api.html)</li>
+<li>jQuery - (https://api.jquery.com/)</li>
+<li>Bootstrap - (https://getbootstrap.com/docs/4.4/getting-started/introduction/)</li>
 
 <h1>Setup:</h1>
 <li>Clone the repository on your local device and open Terminal or Bash</li>
 <li>In Terminal or Bash, the user will run the following command to download all application dependencies: "npm install"</li>
 <li>In Terminal or Bash, the user will run the following command to run the application: "npm run watch"</li>
-<li>Once the command is run, a successful message will appear "App running on http://localhost:3000"
+<li>Once the command is run, a successful message will appear "App running on http://localhost:3000"</li>
 <li>In your browser, type "http://localhost:3000/"</li>
 
 <h1>Future Development:</h1>
@@ -30,4 +30,4 @@ If I were to develop this application further, I would start with an API functio
 <h1>Heroku Link:</h1>
 
 <h1>Contact Me:</h1>
-[@ariehh1](https://github.com/ariehh1)
+@ariehh1 - (https://github.com/ariehh1)
