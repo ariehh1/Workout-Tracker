@@ -1,4 +1,4 @@
-# Workout-Tracker
+# Workout-Tracker (https://cryptic-thicket-48801.herokuapp.com)
 
 In this repository, I have built a Workout Tracker utilizing MongoDB and a Mongoose schema. The user can log their exercise activity for the day and view their results in the Workout Dashboard. The application will take in any resistance or cardio related exercise.
 
@@ -28,6 +28,7 @@ A consumer will reach their fitness goals quicker when they track their workout 
 If I were to develop this application further, I would start with an API functionality. Google Maps first comes to mind when tracking a cardio workout. Once the user has logged their exercise into the tracker, they additionally have the option to add their coordinates (if they traveled from one place to another). I would also add in another schema where a set of exercise plans become visible if the user wishes to explore that route.
 
 <h1>Heroku Link:</h1>
+https://cryptic-thicket-48801.herokuapp.com
 
 <h1>Contact Me:</h1>
 @ariehh1 - (https://github.com/ariehh1)
