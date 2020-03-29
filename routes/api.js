@@ -27,7 +27,7 @@ router.put("/api/workouts/:id", (req, res) => {
     .catch(err => res.json(err));
 });
 
-// Get range
+// Get range route
 router.get("/api/workouts/range", (req, res) => {
   workout
     .find()
