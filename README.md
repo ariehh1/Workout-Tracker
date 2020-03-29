@@ -24,6 +24,10 @@ A consumer will reach their fitness goals quicker when they track their workout 
 <li>Once the command is run, a successful message will appear "App running on http://localhost:3000"</li>
 <li>In your browser, type "http://localhost:3000/"</li>
 
+<h1>Demo of Application:</h1>
+Please watch the below link for a demo of the Workout Tracker:
+https://drive.google.com/file/d/1xklXrh8GDJL7nLRzv1CkdysgNKd92GUC/view
+
 <h1>Future Development:</h1>
 If I were to develop this application further, I would start with an API functionality. Google Maps first comes to mind when tracking a cardio workout. Once the user has logged their exercise into the tracker, they additionally have the option to add their coordinates (if they traveled from one place to another). I would also add in another schema where a set of exercise plans become visible if the user wishes to explore that route.
 
