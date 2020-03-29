@@ -1,4 +1,4 @@
-# Workout-Tracker (https://cryptic-thicket-48801.herokuapp.com)
+# [Workout-Tracker](https://cryptic-thicket-48801.herokuapp.com)
 
 In this repository, I have built a Workout Tracker utilizing MongoDB and a Mongoose schema. The user can log their exercise activity for the day and view their results in the Workout Dashboard. The application will take in any resistance or cardio related exercise.
 
